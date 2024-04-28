@@ -1,5 +1,5 @@
-kappaMerge - Sequential Merging Operators for Ranking Functions
-Version 0.5.0
+kappaMerge - Sequential Merging Operators for Ranking Functions  
+Version 0.5.0  
 2024 Eda Ismail-Tsaous, Kai Sauerwald
 
 Dependencies: 
@@ -16,11 +16,11 @@ Contents
 
 I)     Operator Predictions          
 II)    Operator Groups: Identical Predictions               
-III)   Operators: Predictive Performance
-III-1) General Predictive Performance
-III-2) Accuracy for Unique Tasks     
-III-3) Unpredicted Answers           
-III-4) Predictive Performance of the Operators for Individuals
+III)   Operators: Predictive Performance  
+III-1) General Predictive Performance  
+III-2) Accuracy for Unique Tasks       
+III-3) Unpredicted Answers             
+III-4) Predictive Performance of the Operators for Individuals 
 IV)    Answers Deviating from Classical Logic                        
 IV-1)  Overall Frequency of Logically Inconsistent Answers   
 IV-2)  Participants' Answers        
